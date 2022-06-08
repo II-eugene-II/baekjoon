@@ -1,6 +1,5 @@
 # [백준 00000번 (문제 이름)](https://www.acmicpc.net/problem/00000) - 풀이한 언어 (Python / C)
 
-
 (문제 사진)
 
 ---
